@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description": "Prepare Git presentation",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "description": "Practice live commands",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "description": "Review team demo",
+    "completed": true
+  }
+]

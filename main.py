@@ -6,6 +6,7 @@ from task_tracker.tasks import add_task, complete_task, delete_task, list_tasks
 
 
 def main():
+    API='dfkjsf'
     parser = argparse.ArgumentParser(description="A simple command-line task tracker.")
     subparsers = parser.add_subparsers(dest="command", required=True)
 

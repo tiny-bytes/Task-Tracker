@@ -57,3 +57,12 @@ git push origin main
 ```
 
 **Note:** Ensure your changes do not break existing functionality before pushing them.
+
+## Future Improvements
+
+The Task Tracker can be extended with the following features:
+
+- Search tasks by title or keyword.
+- Filter tasks by completion status.
+- Add task priorities and due dates.
+- Improve input validation and error handling.
